@@ -281,6 +281,20 @@ li {
     width: 70%;
     margin: 0 auto 30px;
 }
+.site-heading h1 {
+    text-transform: uppercase;
+    font-size: 60px;
+    line-height: 45px;
+    margin-bottom: 30px;
+    font-weight: 700;
+    display: block;
+    color: #fff;
+    letter-spacing: 0.03em;
+    position: relative;
+    padding-bottom: 5px;
+    -webkit-transition: all 850ms ease;
+    transition: all 850ms ease
+}
 
 .site-heading h2 {
     text-transform: uppercase;
