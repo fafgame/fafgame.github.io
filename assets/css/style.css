@@ -1516,6 +1516,7 @@ span.is-active {
     color: #999;
     line-height: 24px;
     text-transform: capitalize;
+    text-align: center;
 }
 
 .game-rating {
